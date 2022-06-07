@@ -1,0 +1,7 @@
+NAT server
+
+run traceroute who.int
+
+1 - Local ip
+2 - NAT ip
+3 - Public ip

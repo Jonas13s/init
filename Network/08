@@ -1,0 +1,6 @@
+first we have to get ip of the website who.int
+we can do that by nslookup who.int
+We get that their ip is : 104.17.113.188
+
+After that we can either use whois 104.17.113.188 or ipinfo.io
+But in both of them it shows that it's Cloudflare
